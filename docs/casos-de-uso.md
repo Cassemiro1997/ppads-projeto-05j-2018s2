@@ -29,8 +29,8 @@ Resumo: Este caso de uso permite que o receptor possa cadastrar um local que nec
 
 ### Fluxo principal
 1. Ator seleciona a opção de cadastrar doação.
-2. Sistema apresenta as opções com os tipos de itens para doação: vestuário, móveis e alimentos (FA1).
-3. Sistema apresenta as opções de solicitar entrega (FA2) ou retirada pelo próprio receptor (FA3).
+2. Ator inserir os tipos de itens para doação.
+3. Sistema apresenta as opções de solicitar entrega (FA1) ou retirada pelo próprio receptor (FA2).
 4. Ator confirma a solicitação.
 5. Sistema valida a doação e encerra o caso de uso.
 #### Fluxo Alternativo 1
