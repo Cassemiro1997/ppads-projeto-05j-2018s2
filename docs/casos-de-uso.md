@@ -55,7 +55,13 @@ Resumo: Este caso de uso permite que o doador ou receptor possam encaminhar uma 
 2. Sistema apresenta lista com os locais que necessitam uma doação.
 3. Ator seleciona uma opção.
 4. Sistema informa os itens necessitados.
-5. Ator confirma a doação.
+5. Sistema apresenta as opções de solicitar entrega (FA1) ou retirada da doação (FA2).
+6. Ator confirma a solicitação.
 5. Sistema valida doação e retira da lista de pendentes.
-
-
+#### Fluxo Alternativo 1
+1. Sistema apresenta formulário de preenchimento com o endereço de entrega da doação.
+2. Ator preenche o formulário.
+3. Sistema apresenta um aviso de confirmação da solicitação e retorna ao passo 6 do Fluxo Principal.
+#### Fluxo Alternativo 2
+1. Sistema apresenta endereço de retirada da doação.
+2. Sistema apresenta um aviso de confirmação da solicitação e retorna ao passo 6 do Fluxo Principal.
