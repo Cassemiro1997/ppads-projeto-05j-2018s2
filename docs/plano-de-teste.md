@@ -47,6 +47,10 @@ Testes Baseado no Caso de uso.
 
 1.9 Sistema retornara uma mensagem. 
 
+1.10 Retornar na página home, e clicar em Doações Feitas, e conferir se sua doação está la.
+
+
+
 
 
 2. Realizar Doação
@@ -70,5 +74,12 @@ Testes Baseado no Caso de uso.
 
 2.9 Quando preencher , clicar em cadastrar.
 
-3.0 Sistema rertonara uma mensagem.
+2.10 Sistema retornara uma mensagem. 
+
+2.11 Retornar na página home, e clicar em Doações Necessarias, e conferir se seu pedido está la.
+
+
+
+
+
 
